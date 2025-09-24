@@ -6,6 +6,10 @@
 
     Juan Esteban Osorno Duque 
 
+    Jhonier Cespedes
+
+    John Higuita
+
 ## 🔥 Resultado del codigo 
 
 C:\Users\desarrollo\PycharmProjects\ventasCSV\.venv\Scripts\python.exe C:\Users\desarrollo\PycharmProjects\ventasCSV\main.py 
